@@ -341,19 +341,19 @@
             "Theme"
           ],
           "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px",
-              "text-align": "center"
-            }
-          },
           "_anchor": "content1-1z",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Cornerstone's&nbsp;<span style=\"line-height: 1.5;\">process identifies talented individuals, offers a realistic job preview, provides skills-based developmental planning and measures readiness to succeed within your organization.</span></p>"
+          "text": "<p>Cornerstone's&nbsp;<span style=\"line-height: 1.5;\">process identifies talented individuals, offers a realistic job preview, provides skills-based developmental planning and measures readiness to succeed within your organization.</span></p>",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [

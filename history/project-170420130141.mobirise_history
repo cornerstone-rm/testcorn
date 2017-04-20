@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 60,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -55,15 +55,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             "P": {
-              "color": "#28324e",
+              "color": "#000000",
               "font-size": "30px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "60px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box4-r",
@@ -108,7 +107,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Are Your <br>Future Leaders Prepared?</span>",
           "text": "<p>We will help you find your best candidate for the job.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RD1 Login</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -118,8 +117,7 @@
           "_name": "extTestimonials5",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px",
-              "color": "#28324e"
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -129,7 +127,7 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/janssen-logo-945x405.png",
@@ -207,7 +205,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/astrazeneca-web-1280x327.png",
@@ -299,7 +297,7 @@
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showSubtitle": false,
-            "showBullets": false,
+            "showBullets": true,
             "visibleSlides": "6",
             "showArrows": true
           },
@@ -313,13 +311,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "32px",
-              "color": "#28324e"
-            },
-            "SMALL": {
-              "text-align": "right",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-size": "32px"
             }
           },
           "_tags": [
@@ -334,26 +326,7 @@
             "showMeta": false
           },
           "title": "HOW OUR SYSTEM HELPS YOU",
-          "meta": "<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-1z",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Cornerstone's&nbsp;<span style=\"line-height: 1.5;\">process identifies talented individuals, offers a realistic job preview, provides skills-based developmental planning and measures readiness to succeed within your organization.</span></p>"
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -595,7 +568,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -614,7 +587,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -687,25 +660,25 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1i",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "bgColor": "#28324e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#28324e"
           },
           "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
           "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"38\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"39\">\n                Copyright © 2017 Cornerstone Management Resources, Inc.</p>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".my-image {\n    width: 240px;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "footer1-1i"
+          "_customTemplate": true
         }
       ]
     },
@@ -1965,7 +1938,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1984,7 +1957,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2080,13 +2053,13 @@
             "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "bgColor": "#28324e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#28324e"
           },
           "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
           "_tags": [
@@ -2179,7 +2152,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2198,7 +2171,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2294,13 +2267,13 @@
             "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "bgColor": "#28324e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#28324e"
           },
           "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
           "_tags": [
@@ -2323,37 +2296,51 @@
       },
       "components": [
         {
-          "_inherit": "msg-box5",
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "48px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1y",
+          "_name": "header6",
+          "_customCSS": ".mbr-figure {\n    box-shadow: 2px 2px 2px #2F4681;\n}\n",
+          "_anchor": "header6-15",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "imageSize": "54",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bg-meetkathy.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#efefef",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#2f4681",
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "active": true,
@@ -2363,23 +2350,14 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Cornerstone's Interview on World Wide Business with kathy Ireland</span>",
-          "text": "<p>Joe and Carl Thoresen explore Cornerstone’s approach to building great business leaders with host Kathy Ireland.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#28324e"
-            },
-            "P": {
-              "font-size": "24px"
-            }
-          },
-          "_customCSS": ".mbr-figure {\n    border: 1px solid rgba(47,70,129,.5);\n/*     box-shadow: 2px 2px 2px #2F4681; */\n}"
+          "title": "<span style=\"font-weight: normal;\">Worldwide Business with kathy ireland®</span>",
+          "text": "Joe and Carl Thoresen explore Cornerstone’s approach to building great business leaders with host Kathy Ireland.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -2452,7 +2430,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2471,7 +2449,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2494,7 +2472,7 @@
             "showMeta": true
           },
           "title": "<span style=\"font-weight: normal;\">Let's get started!</span>",
-          "meta": "Call or simply send us a note and we will make you great AGAIN!"
+          "meta": "Call or simply send us a note and we will make you great!"
         },
         {
           "_tags": [
@@ -2567,20 +2545,20 @@
             "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "bgColor": "#28324e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#28324e"
           },
           "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"43\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"44\">\n                Copyright © 2017 Cornerstone Management Resources, Inc.</p>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"38\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"39\">\n                Copyright © 2017 Cornerstone Management Resources, Inc.</p>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".my-image {\n    width: 240px;\n}\n",
@@ -2595,29 +2573,6 @@
         "meta_descr": "Web Page Creator Description"
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#28324e"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1x",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "0",
-            "bgColor": "#efefef",
-            "showMeta": false
-          },
-          "title": "Our Four Step Approach",
-          "meta": "By John Smith posted July 20, 2016"
-        },
         {
           "_inherit": "msg-box5",
           "_tags": [
@@ -2637,8 +2592,8 @@
           "_anchor": "msg-box4-1b",
           "_params": {
             "imageSize": "49",
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2695,8 +2650,8 @@
           "_anchor": "msg-box4-1c",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2753,8 +2708,8 @@
           "_anchor": "msg-box4-1d",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2811,8 +2766,8 @@
           "_anchor": "msg-box4-1e",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2923,7 +2878,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2942,7 +2897,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3038,13 +2993,13 @@
             "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
             "bgColor": "#28324e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#28324e"
           },
           "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
           "_tags": [
@@ -3057,459 +3012,6 @@
           "_customCSS": ".my-image {\n    width: 240px;\n}\n",
           "_customTemplate": true,
           "_anchor": "footer1-1i"
-        }
-      ]
-    },
-    "lten.html": {
-      "settings": {
-        "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
-      },
-      "components": [
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader13",
-          "_styles": {
-            "H4": {
-              "color": "#f3c649",
-              "font-size": "30px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            },
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "font-size": "23px"
-            }
-          },
-          "_anchor": "extHeader13-1r",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "file:///Users/garyanewsome/Library/Application%20Support/Mobirise.com/Mobirise/projectData/nashville-river-2000x863.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
-            "showTitle": true,
-            "showText": true,
-            "countdown": "2017/06/05",
-            "showArrow": true
-          },
-          "title2": "Arrange a sit down with us<br>in Nashville!",
-          "form": {
-            "action": "alex.loya@leadwithcornerstone.com",
-            "alerts": {
-              "success": "Thank You!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": false,
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Let's talk!</a>",
-          "title": "SEE YOU AT<br>BOOTH 512 LTEN",
-          "text": "Whether you are looking to.. or this... or this...<br>Nashville<br>SEE YOU AT LTEN&nbsp;June 5-8, 2017"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1s",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "file:///Users/garyanewsome/Library/Application%20Support/Mobirise.com/Mobirise/projectData/lten-nashville-geo2-hero-new-1400x430.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": false
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1w",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Visit us at Booth 512",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "msg-box5-1t",
-          "_params": {
-            "imageSize": "25",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/garyanewsome/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-2000x1333.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "file:///Users/garyanewsome/Library/Application%20Support/Mobirise.com/Mobirise/projectData/carl-600x840.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Carl Thoresen",
-          "text": "Carl joined the Cornerstone team after working as Assistant Professor of industrial/organizational psychology at Tulane University. As an internationally recognized author and researcher on employee selection, job attitudes, employee assessment, and the role of personality in job performance, Carl brings a unique, research-oriented perspective to the design and implementation of Cornerstone’s programs. He has extensive training and experience in test development and validation. After graduating from Northwestern University, Carl earned an M.S. degree in organizational behavior from Cornell University. He later completed his Ph.D. in human resource management with a minor concentration in personality and social psychology at the University of Iowa.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "msg-box5-1v",
-          "_params": {
-            "imageSize": "25",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "file:///Users/garyanewsome/Library/Application%20Support/Mobirise.com/Mobirise/projectData/kimcatania-600x840.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Kim Catania",
-          "text": "Kim has held multiple positions in the pharmaceutical industry over the past 20 years and has worked for companies such as; Abbott Laboratories, Bayer Corporation, Sepracor, Discovery Laboratories and Acorda Therapeutics. She is proficient in Instructional design, interactive meeting design, adult-learning and has created multiple collaborative workshops as well as educational learning modules. Kim has also focused on talent development and skill/competency-based assessments, as well as extensive coaching to personnel in a wide range of career levels. She has been an integral part in building and restructuring multiple sales forces/teams in preparation for product launches and company growth opportunities. Her expertise also includes managing commercial team compliance, implementation of field-based compliance monitoring systems, development of a complete educational platform for specialty field forces (including iPad roll-out and interactive workshop) and promotional material development. Her background includes sales leadership, project management, and product launch experience. She also has experience with Pharmaceutical, Biotech, Primary Care, Institutional, Specialty, and Managed Markets/Market Access Commercial Teams. Her accomplishments have been recognized with numerous awards for sales excellence, leadership performance and peer recognition.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1u",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#28324e",
-            "showMeta": true
-          },
-          "title": "<span style=\"font-weight: normal;\">Let's get started!</span>",
-          "meta": "Call or simply send us a note and we will make you great!"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1o",
-          "_params": {
-            "bgColor": "#28324e",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cdrawing12.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://leadwithcornerstone.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "P": {
-              "color": "#cccccc"
-            },
-            "B": {
-              "font-size": "16px",
-              "color": "#7e9b9f"
-            },
-            "STRONG": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "contacts4-1p",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<b>Address</b><br><br>Cornerstone Management Resource Systems<br>212 Mary Street<br>\nCarnegie, PA 15106<br><br>\n<strong>Contacts</strong><br>\ncontact@leadwithcornerstone.com<br><br>\nPhone: (412) 429-6400 <br>\nFax: (412) 429-6450",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7e9b9f\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Proud Members of:</b></span></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.l-ten.org/\" target=\"_blank\">Life Science Trainers &amp; Educators Network</a></li><li><a href=\"http://www.aomonline.org/\" target=\"_blank\">Academy of Management</a></li><li><a href=\"http://www.td.org/\" target=\"_blank\">Association for Talent Development</a></li><li><a href=\"http://http://www.siop.org/\" target=\"_blank\">Society for Industrial and Organizational Psychology</a></li><li><a href=\"http://www.shrm.org/\" target=\"_blank\">Society for Human Resource Management</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "alex.loya@leadwithcornerstone.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">I'm interested to learn more.</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
-          },
-          "text": "Copyright (c) 2017 Cornerstone Management Resources, Inc.",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(40, 50, 78); padding-top: 1.75rem; padding-bottom: 3.5rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"38\">\n            <img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/cornerstone_logo_041817.svg\">\n        </p>\n            <br>\n            <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"39\">\n                Copyright © 2017 Cornerstone Management Resources, Inc.</p>\n    </div>\n</footer>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".my-image {\n    width: 240px;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "footer1-1q"
         }
       ]
     }
