@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "newcornerstoneweb",
-    "currentPage": "kathy_ireland.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -368,13 +368,15 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px",
-              "color": "#7e9b9f"
+              "color": "#7e9b9f",
+              "text-align": "left"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "font-size": "16px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#41a85f",
@@ -383,13 +385,15 @@
             ".mbr-cards-col:nth-child(even) .card-text": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "left"
             },
             ".mbr-cards-col:nth-child(even) .card-text I": {
               "font-size": "16px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#7e9b9f"
+              "color": "#7e9b9f",
+              "text-align": "left"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#41a85f",
@@ -572,7 +576,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -614,7 +618,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lten.html\"> SEE US AT LTEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kathy_ireland.html\">WORLD WIDE BUSINESS W/ KATHY IRELAND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -1942,7 +1946,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -1984,7 +1988,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lten.html\"> SEE US AT LTEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kathy_ireland.html\">WORLD WIDE BUSINESS W/ KATHY IRELAND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -2156,7 +2160,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -2198,7 +2202,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lten.html\"> SEE US AT LTEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kathy_ireland.html\">WORLD WIDE BUSINESS W/ KATHY IRELAND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -2429,7 +2433,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -2471,7 +2475,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lten.html\"> SEE US AT LTEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kathy_ireland.html\">WORLD WIDE BUSINESS W/ KATHY IRELAND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -2900,7 +2904,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -2942,7 +2946,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lten.html\"> SEE US AT LTEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kathy_ireland.html\">WORLD WIDE BUSINESS W/ KATHY IRELAND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -3077,12 +3081,12 @@
             "H4": {
               "color": "#f3c649",
               "font-size": "30px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "P": {
               "font-size": "23px"
@@ -3109,7 +3113,7 @@
             "countdown": "2017/06/05",
             "showArrow": true
           },
-          "title2": "Arrange a sit down with us<br>in Nashville!",
+          "title2": "<span style=\"font-weight: normal;\">Arrange a sit down with</span> <span style=\"font-weight: normal;\">us&nbsp;in Nashville!</span>",
           "form": {
             "action": "alex.loya@leadwithcornerstone.com",
             "alerts": {
@@ -3376,7 +3380,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -3418,7 +3422,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Press Releases</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Testimonials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"approach.html\" aria-expanded=\"false\">OUR APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meet_cornerstone_team.html\" aria-expanded=\"false\">MEET OUR TEAM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lten.html\"> SEE US AT LTEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kathy_ireland.html\">WORLD WIDE BUSINESS W/ KATHY IRELAND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RD1 LOGIN</a></li>"
         },
         {
           "_tags": [
