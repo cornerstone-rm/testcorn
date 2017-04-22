@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 73,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -40,7 +40,7 @@
         "title": "",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<script type=\"text/javascript\">\n  $(function(){\n    var $clientcarousel = $('#clients-list');\n    var clients = $clientcarousel.children().length;\n    var clientwidth = (clients * 140); // 140px width for each client item\n    $clientcarousel.css('width',clientwidth);\n\n    var rotating = true;\n    var clientspeed = 1800;\n    var seeclients = setInterval(rotateClients, clientspeed);\n\n    $(document).on({\n      mouseenter: function(){\n        rotating = false; // turn off rotation when hovering\n      },\n      mouseleave: function(){\n        rotating = true;\n      }\n    }, '#clients');\n\n    function rotateClients() {\n      if(rotating != false) {\n        var $first = $('#clients-list li:first');\n        $first.animate({ 'margin-left': '-140px' }, 600, function() {\n          $first.remove().css({ 'margin-left': '0px' });\n          $('#clients-list li:last').after($first);\n        });\n      }\n    }\n});\n</script>\n\n",
+        "footer_custom": "\n",
         "html_before": ""
       },
       "components": [
@@ -109,23 +109,206 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Promote <br>Your Best!</span>",
-          "text": "<p>We will help you find <br>the right candidate for the job.</p>",
+          "title": "<span style=\"font-weight: normal;\">Are Your <br>Future Leaders Prepared?</span>",
+          "text": "<p>We will help you find your best candidate for the job.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RD1 Login</a>"
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"block-structure\">\n  <div id=\"content\">\n    <div id=\"clients\">\n      <div class=\"clients-wrap\">\n          <div class=\"row\">\n            <div class=\"col-md-12\">\n        <ul id=\"clients-list\" class=\"clearfix\">\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/janssen-logo-945x405_2.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/regeneron-web-1174x144_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/shionogi-web-2700x559_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/sanofi-web-812x101_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/boehringer-web-710x212_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/biogen-web-1024x357_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/astrazeneca-web-1280x327_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/novartis-web-5000x874_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/pitney-web-1280x314_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/roche-diagnostics-web-400x276_1.png\"></li>\n          <li><img src=\"file:///Users/alexloya/Library/Application%20Support/Mobirise.com/Mobirise/projectData/westinghouse-web-1997x563_1.png\"></li>\n        </ul>\n      </div></div></div>\n    </div>\n  </div>\n</div>\n",
-          "_customCSS": "ul, li {\n  margin: 0;\n  padding: 0;\n  border: 0;\n  vertical-align: baseline;\n  outline: none;\n  list-style: none;\n}\n\n#block-structure {\n  display: block;\n  margin: 0 auto;\n}\n\n#content {\n  display: block;\n  width: 100%;\n  background: #fff;\n  padding: 25px 20px;\n  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;\n  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;\n  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;\n}\n\n#clients {\n  display: block;\n  margin-bottom: 15px;\n}\n\n#clients .clients-wrap {\n  display: block;\n  width: 700px;\n  margin: 0 auto;\n  overflow: hidden;\n}\n\n#clients .clients-wrap ul {\n  display: block;\n  list-style: none;\n  position: relative;\n}\n\n#clients .clients-wrap ul li {\n  display: block;\n  float: left;\n  padding: 0 10px 0 10px;\n  position: relative;\n  width: 140px;\n  height: 55px;\n  line-height: 55px;\n  text-align: center;\n}\n\n#clients .clients-wrap ul li img {\n  vertical-align: middle;\n  max-width: 100%;\n  max-height: 100%;\n  -webkit-transition: all 0.3s linear;\n  -moz-transition: all 0.3s linear;\n  transition: all 0.3s linear;\n}\n",
-          "alias": "code-editor",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-21",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#28324e"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "timeout": "3",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/janssen-logo-945x405.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/regeneron-web-1174x144.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/shionogi-web-2700x559.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/sanofi-web-812x101.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/boehringer-web-710x212.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/biogen-web-1024x357.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/astrazeneca-web-1280x327.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/johnson-controls-1280x589.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/novartis-web-5000x874.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/pitney-web-1280x314.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/roche-diagnostics-web-400x276.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/westinghouse-web-1997x563.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showBullets": false,
+            "visibleSlides": "6",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-w",
+          "title": "A FEW OF OUR GREAT CLIENTS",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients."
         },
         {
           "_styles": {
